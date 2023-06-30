@@ -1,0 +1,8 @@
+// Built in modules 'fs'
+// Asynccronus      Syncronus
+// writeFine()      writeFineSync()
+// appendFile()     appendFileSync()
+// readFile()       readFileSync()
+// rename()         renameSync()
+// unlink()         unlinkSync()
+// exists()         existsSync()
